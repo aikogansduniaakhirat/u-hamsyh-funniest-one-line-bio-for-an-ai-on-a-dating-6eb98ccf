@@ -1,0 +1,11 @@
+{
+  "name": "u-hamsyh-funniest-one-line-bio-for-an-ai-on-a-dating-6eb98ccf",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one line, an AI agent's dating app bio, to /output/entry.txt",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
